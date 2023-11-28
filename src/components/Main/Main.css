@@ -1,0 +1,12 @@
+.content {
+  padding: 20px;
+  position: relative;
+  bottom: 16rem;
+  color: #fff;
+  width: 50%;
+}
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+}

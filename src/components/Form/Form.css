@@ -1,0 +1,41 @@
+.form {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 350px;
+  background-color: #1a73e8;
+  border-radius: 10px;
+}
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+.icon {
+  height: 40px;
+  background: #1a73e8;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.text-content{
+  width: 357px;
+}
+.heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

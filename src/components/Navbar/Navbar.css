@@ -1,0 +1,11 @@
+.navbar-brand{
+    color: #17478d;
+    font-weight: 700;
+}
+.navbar{
+    background-color: #fff;
+}
+.fs-6{
+    font-size: 12px !important;
+    /* background-color: #1a73e8; */
+}
